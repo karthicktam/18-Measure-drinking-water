@@ -59,7 +59,7 @@ h3 {
 }
 
 .percentage {
-  background-color: salmon;
+  background-color: cyan;
   font-size: 30px;
   font-weight: bold;
   display: flex;
@@ -98,6 +98,6 @@ h3 {
 }
 
 .cup.cup-small.full {
-  background-color: salmon;
-  color: #fff;
+  background-color: cyan;
+  color: #000;
 }
